@@ -1,0 +1,18 @@
+{
+  "name": "mc-fal10ascx",
+  "version": "1.0.0-beta.0",
+  "description": "Schema quadro elettrico per ascensore",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changelog": "conventional-changelog -i CHANGELOG.md -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:eca-automs/schematics/MC-FAL10ASCX.git"
+  },
+  "author": "Roberto Belardi",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "conventional-changelog-cli": "^1.3.3"
+  }
+}
