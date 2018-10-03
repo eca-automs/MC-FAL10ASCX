@@ -1,3 +1,11 @@
+<a name="1.0.0"></a>
+## 1.0.0 (2018-10-03)
+
+* Bump version 1.0.0 ([22c6aa5](https://github.com/eca-automs/MC-FAL10ASCX/commit/22c6aa5))
+* Set up project to be published to public docs site. ([5dd0d44](https://github.com/eca-automs/MC-FAL10ASCX/commit/5dd0d44))
+
+
+
 <a name="1.0.0-beta.0"></a>
 # 1.0.0-beta.0 (2017-09-12)
 
